@@ -1,0 +1,9 @@
+{
+  "name": "typescript-iniciantes",
+  "version": "1.0.0",
+  "description": "App para desenvolvimento dr estudos de TypeScript",
+  "main": "index.js",
+  "repository": "https://github.com/estevam02009/typescript-iniciante.git",
+  "author": "Manoel Estevam Neto <manoel.neto53861@alunos.ufersa.edu.br>",
+  "license": "MIT"
+}
